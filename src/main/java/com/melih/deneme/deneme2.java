@@ -1,8 +1,7 @@
 package com.melih.deneme;
 
-public class deneme {
+public class deneme2 {
     public static void main(String[] args) {
-        System.out.println("selammmm");
 
     }
 }
